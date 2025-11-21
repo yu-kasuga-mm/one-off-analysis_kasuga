@@ -11,6 +11,9 @@ wheels/
 
 # keys
 gcp-qb3online-key.json
+google_sheets_api_credentials.json
+token.json
+
 
 # 無視するファイル
 *.csv
