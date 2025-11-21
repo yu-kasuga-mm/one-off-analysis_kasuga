@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# keys
+gcp-qb3online-key.json
+
+# 無視するファイル
+*.csv
+*.png
+*.pdf
+*.pptx
+*.xlsx
